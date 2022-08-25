@@ -4,4 +4,5 @@ This is a project about exploring the data in audio file using AssemblyAI API, g
 https://www.assemblyai.com/docs/walkthroughs#uploading-local-files-for-transcription
 
 ## Dashboard Walkthrough
-<img src='walkthrough.gif' title='Video Walkthrough width='' alt='Video Walkthrough'/> 
+<img src='walkthrough.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+
