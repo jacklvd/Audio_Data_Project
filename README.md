@@ -20,3 +20,6 @@ https://www.assemblyai.com/docs/walkthroughs#uploading-local-files-for-transcrip
 
 <img src='walkthrough.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
+
+## Future feature
+- Planning to add feature like automatic generate transcript for instantly speech conversation.
