@@ -1,4 +1,4 @@
-# Audio_Data_Explorer
+# Audio Data Explorer
 
 This is a project about exploring the data in audio file using AssemblyAI API
 
