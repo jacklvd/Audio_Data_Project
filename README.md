@@ -6,9 +6,13 @@ https://www.assemblyai.com/docs/walkthroughs#uploading-local-files-for-transcrip
 ## Running Guide
 
 `git clone https://github.com/jacklvd/Audio_Data_Project.git`
+
 `python -m venv venv`
+
 `venv/scripts/activate`
+
 `pip install -r requirements.txt`
+
 `jupyter lab`
 
 ## Dashboard Walkthrough
