@@ -1,5 +1,7 @@
 # Audio Data Explorer
 
+[![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
+
 This is a project about exploring the data in audio file using AssemblyAI API
 
 https://www.assemblyai.com/docs/walkthroughs#uploading-local-files-for-transcription
